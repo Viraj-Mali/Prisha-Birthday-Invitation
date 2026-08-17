@@ -137,13 +137,13 @@ export const weddingData = {
   share: {
     whatsappText:
       "🎉 You're invited to Prisha's 3rd Birthday Party! 🎀\n19 September 2026 | 4:00 PM | Yashobhoomi Society, Pune\nCome celebrate and make memories! 🎈\n",
-    websiteUrl: "https://birthday-invitation-pink.vercel.app/",
+    websiteUrl: "https://prisha-birthday-invitation.vercel.app/",
   },
 
   seo: {
     title: "Prisha's 3rd Birthday 🎀 | You're Invited!",
     description:
       "You are invited to celebrate Prisha's 3rd Birthday on 19 September 2026 at Yashobhoomi Society, Pune.",
-    ogImage: "/images/prisha.JPG",
+    ogImage: "/images/og-preview.jpeg",
   },
 };
