@@ -119,13 +119,19 @@ export const weddingData = {
   footerLine: "We can't wait to celebrate with you! See you at the party! 🎉",
 
   assets: {
-    music: "/music/wedding-music.mp3",
+    music: "/music/birthday-music.mpeg",
     ganpatiImage: "",
     weddingCard: "",
     groomPhoto: "",
     bridePhoto: "",
-    birthdayGirlPhoto: "",
-    galleryImages: [],
+    birthdayGirlPhoto: "/images/prisha.JPG",
+    galleryImages: [
+      "/images/photo1.JPG",
+      "/images/photo2.jpeg",
+      "/images/photo3.jpeg",
+      "/images/photo4.jpeg",
+      "/images/photo5.jpeg"
+    ],
   },
 
   share: {
@@ -138,6 +144,6 @@ export const weddingData = {
     title: "Prisha's 3rd Birthday 🎀 | You're Invited!",
     description:
       "You are invited to celebrate Prisha's 3rd Birthday on 19 September 2026 at Yashobhoomi Society, Pune.",
-    ogImage: "/images/og-preview.jpeg",
+    ogImage: "/images/prisha.JPG",
   },
 };

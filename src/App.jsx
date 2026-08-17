@@ -11,7 +11,6 @@ import PhotoStack from './components/PhotoStack.jsx';
 import EventDetails from './components/EventDetails.jsx';
 import InvitationMessage from './components/InvitationMessage.jsx';
 import VenueSection from './components/VenueSection.jsx';
-import FamilySection from './components/FamilySection.jsx';
 import Footer from './components/Footer.jsx';
 import MusicButton from './components/MusicButton.jsx';
 import FloatingActions from './components/FloatingActions.jsx';
@@ -125,7 +124,6 @@ function App() {
             <EventDetails />
             <InvitationMessage />
             <VenueSection />
-            <FamilySection />
             <Footer />
           </main>
 
