@@ -124,14 +124,14 @@ export const weddingData = {
 
   share: {
     whatsappText:
-      "You are cordially invited to celebrate the 1st birthday of our little princess, Prisha! 🎀\n19 August 2026 | 7:00 PM | Yashobhoomi Society, Pune\nYour presence and blessings are most welcome.\n",
+      "👑 You're Invited to Prisha's Royal 1st Birthday! 🎀\nOur little princess is turning one! Join us for a fairytale evening of cake, music, and magical memories. ✨🎂\n\n📅 Wednesday, 19 August 2026 | 7:00 PM\n📍 Yashobhoomi Society, Pune\n\nYour presence and blessings are most welcome!\n",
     websiteUrl: "https://prisha-birthday-invitation.vercel.app/",
   },
 
   seo: {
-    title: "Prisha's 1st Birthday 🎀 | You're Invited!",
+    title: "👑 You're Invited to Prisha's Royal 1st Birthday! 🎀",
     description:
-      "You are invited to celebrate Prisha's 1st Birthday on 19 August 2026 at Yashobhoomi Society, Pune.",
+      "Our little princess is turning one! Join us for a fairytale evening of cake, music, and magical memories. ✨🎂",
     ogImage: "/images/og-preview.jpeg",
   },
 };
