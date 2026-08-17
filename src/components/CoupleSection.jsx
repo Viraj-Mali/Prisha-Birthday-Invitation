@@ -139,7 +139,7 @@ const CoupleSection = () => {
       {/* Parents row */}
       <div className="max-w-lg mx-auto grid grid-cols-2 gap-4">
         <ParentCard title="Papa 👨" emoji="🤵" color="hsl(210,70%,45%)" />
-        <ParentCard title="Mama 👩" emoji="👸" color="hsl(340,70%,50%)" />
+        <ParentCard title="Mummy 👩" emoji="👸" color="hsl(340,70%,50%)" />
       </div>
     </section>
   );

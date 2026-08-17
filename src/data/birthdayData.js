@@ -90,13 +90,13 @@ export const weddingData = {
   ],
 
   invitationMessage:
-    "With hearts full of joy, we invite you and your little ones to celebrate our daughter's 1st birthday! Come join us for a magical afternoon of fun, laughter, cake, and lots of sweet memories. Your presence will make this day extra special! 🎀🎈",
+    "With hearts full of joy, we invite you and your little ones to celebrate our daughter's 1st birthday! Come join us for a magical evening of fun, laughter, cake, and lots of sweet memories. Your presence will make this day extra special! 🎀🎈",
 
   family: {
     heading: "Hosted By",
     mainLine: "Our Loving Family",
     members: [
-      { name: "Pallavi (Mama)", phone: "8308988641" },
+      { name: "Pallavi (Mummy)", phone: "8308988641" },
       { name: "Akshay (Papa)", phone: "9168100071" },
       { name: "Dada & Dadi", phone: "" },
       { name: "Nana & Nani", phone: "" },
